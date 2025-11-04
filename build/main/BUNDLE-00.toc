@@ -1,0 +1,3 @@
+([('main',
+   '/Users/tanzin/Desktop/movie_rental_system/dist/main',
+   'EXECUTABLE')],)
